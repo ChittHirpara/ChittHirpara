@@ -1,90 +1,127 @@
-<h1 align="center">⚡ Hey, I'm Chitt ⚡</h1>
+<h1 align="center">⚡ CHITT PATEL ⚡</h1>
 
 <p align="center">
-  <b>I don't just code... I build things people actually use.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C00FF&height=200&section=header&text=BUILD.%20WIN.%20REPEAT.&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=2×+Hackathon+Winner+🏆;Full-Stack+Developer+💻;AI+Explorer+🤖;Building+The+Future+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=2×+Hackathon+Winner+🏆;I+turn+ideas+into+products.;Full-Stack+Developer+💻;AI+is+my+playground+🤖;I+build.+I+ship.+I+win." />
 </p>
 
 ---
 
-## 🧠 Who am I?
+## 🧠 IDENTITY
+
+<p align="center">
+  <b>
+  Not here to follow trends.  
+  Here to build things people remember.
+  </b>
+</p>
+
+---
+
+## ⚡ WHAT MAKES ME DIFFERENT
 
 ```diff
-+ A builder, not just a learner
-+ Hackathon winner who actually ships projects
-+ Obsessed with turning ideas into real products
++ I build real-world projects, not tutorial clones
++ I think in systems, not just code
++ I ship fast, learn faster, repeat endlessly
 ```
 
 ---
 
-## 🚀 Current Mission
-
-* 🎯 Building **TheatLense** (AI + Full Stack)
-* ⚡ Leveling up in **DSA + Backend + AI**
-* 🧠 Learning by **building, not watching tutorials**
-
----
-
-## 🛠️ Tech Stack That I Actually Use
+## 🚀 CURRENT FOCUS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,html,css,git,github" />
+  🎯 <b>TheatLense</b> — AI + Full Stack Innovation  
+  <br>
+  ⚡ Mastering DSA, Backend & AI  
+  <br>
+  🧠 Turning ideas → execution → impact
 </p>
 
 ---
 
-## 🧩 Highlight Project
-
-### 🎯 TheatLense
-
-> Not just a project — a solution.
-
-* AI-powered system
-* Built with full-stack architecture
-* Focused on real-world usability
-
----
-
-## 📊 Proof > Words
+## 🛠️ TECH STACK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,html,css,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🏆 Achievements
-
-```yaml
-Hackathon Wins:
-  - 🥇 Swaminarayan University Hackathon Winner
-  - 🥈 IIIT Surat Hackathon Rank 2
-```
-
----
-
-## ⚡ The Difference
+## 🧩 FEATURED BUILD
 
 <p align="center">
-  <b>"While others learn syntax, I build solutions."</b>
+  <b>🎯 TheatLense</b>  
+  <br><br>
+  AI-powered solution solving real problems  
+  <br>
+  Built with full-stack architecture  
+  <br>
+  Designed for impact, not just submission
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 PERFORMANCE
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="YOUR_GITHUB">GitHub</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+<p align="center">
+  🥇 Hackathon Winner — Swaminarayan University  
+  <br>
+  🥈 IIIT Surat Hackathon — Rank 2  
+  <br>
+  ⚡ Consistently building & shipping projects
+</p>
+
+---
+
+## 🐍 CONTRIBUTION FLOW
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 CONNECT
+
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## ⚡ FINAL STATEMENT
+
+<p align="center">
+  <b>
+  I don’t compete with others.  
+  I outgrow who I was yesterday.
+  </b>
 </p>
 
 ---
 
 <p align="center">
-  🚀 Open to collaborations, ideas, and building something BIG.
+  ⭐ If you're building something bold — let's talk.
 </p>
