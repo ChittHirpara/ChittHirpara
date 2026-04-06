@@ -1,82 +1,82 @@
-<!-- 🔥 HERO SECTION -->
+<!-- 🔥 HERO BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=CHITT%20PATEL&fontSize=45&fontColor=00F7FF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=CHITT%20HIRPARA&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="center">🚀 Full-Stack Developer | 🤖 AI Explorer | 🏆 2× Hackathon Winner</h3>
-
----
-
-<!-- 🧠 INTRO LIKE IMAGE -->
-
-### 👋 About Me
-
-* 🎮 I build real-world projects (not tutorial clones)
-* ☁️ Interested in **AI + Full Stack Development**
-* 🌱 Currently learning **DSA, Backend & AI**
-* ❤️ Love **Hackathons & Open Source**
-* ⚡ Fun fact: I build faster under pressure than tutorials 😂
-
----
-
-<!-- 🛠️ TECH STACK LIKE IMAGE -->
-
-## 🛠️ Technology Stack 💻
-
-### Languages, Frameworks & Tools
+<!-- ✨ TYPING ANIMATION -->
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+💻;AI+Explorer+🤖;Hackathon+Winner+🏆;Building+real-world+projects;Code.+Build.+Repeat." />
+</p>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+---
 
+<!-- 🧠 INTRO -->
+
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+🚀 I build real-world projects, not tutorial clones <br>
+⚡ Passionate about Full-Stack + AI <br>
+🧠 Learning DSA, Backend & System Thinking <br>
+🏆 Hackathon Winner (Swaminarayan University) <br>
+🥈 IIIT Surat Hackathon Rank 2
+</p>
+
+---
+
+<!-- 🛠️ TECH STACK -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,html,css,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+<!-- 🚀 PROJECTS -->
+
+<h2 align="center">🚀 Featured Project</h2>
+
+<p align="center">
+<b>🎯 TheatLense</b> <br><br>
+AI-powered solution solving real-world problems <br>
+Full-stack architecture <br>
+Focused on impact 🚀
 </p>
 
 ---
 
 <!-- 📊 STATS -->
 
-## 📊 GitHub Stats ⚡
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<!-- 🧩 PROJECT SECTION -->
+<!-- 🐍 CONTRIBUTION ANIMATION -->
 
-## 🚀 Featured Projects
+<h2 align="center">🐍 Contribution Graph</h2>
 
-### 🎯 TheatLense
-
-> AI-powered real-world solution
-
-* Full-stack architecture
-* Built for impact, not just demo
-
----
-
-<!-- 🏆 ACHIEVEMENTS -->
-
-## 🏆 Achievements
-
-* 🥇 Hackathon Winner — Swaminarayan University
-* 🥈 IIIT Surat Hackathon Rank 2
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 <!-- 🌐 CONNECT -->
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="YOUR_LINKEDIN">
@@ -89,6 +89,8 @@
 
 ---
 
+<!-- 💀 FINAL LINE -->
+
 <p align="center">
-  ⚡ "Build. Ship. Improve. Repeat."
+<b>⚡ "I don't just write code. I build impact."</b>
 </p>
