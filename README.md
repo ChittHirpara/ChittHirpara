@@ -1,104 +1,82 @@
-<h1 align="center">⚡ CHITT PATEL ⚡</h1>
+<!-- 🔥 HERO SECTION -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C00FF&height=200&section=header&text=BUILD.%20WIN.%20REPEAT.&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=CHITT%20PATEL&fontSize=45&fontColor=00F7FF&animation=fadeIn"/>
 </p>
 
+<h3 align="center">🚀 Full-Stack Developer | 🤖 AI Explorer | 🏆 2× Hackathon Winner</h3>
+
+---
+
+<!-- 🧠 INTRO LIKE IMAGE -->
+
+### 👋 About Me
+
+* 🎮 I build real-world projects (not tutorial clones)
+* ☁️ Interested in **AI + Full Stack Development**
+* 🌱 Currently learning **DSA, Backend & AI**
+* ❤️ Love **Hackathons & Open Source**
+* ⚡ Fun fact: I build faster under pressure than tutorials 😂
+
+---
+
+<!-- 🛠️ TECH STACK LIKE IMAGE -->
+
+## 🛠️ Technology Stack 💻
+
+### Languages, Frameworks & Tools
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=2×+Hackathon+Winner+🏆;I+turn+ideas+into+products.;Full-Stack+Developer+💻;AI+is+my+playground+🤖;I+build.+I+ship.+I+win." />
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </p>
 
 ---
 
-## 🧠 IDENTITY
+<!-- 📊 STATS -->
+
+## 📊 GitHub Stats ⚡
 
 <p align="center">
-  <b>
-  Not here to follow trends.  
-  Here to build things people remember.
-  </b>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## ⚡ WHAT MAKES ME DIFFERENT
+<!-- 🧩 PROJECT SECTION -->
 
-```diff
-+ I build real-world projects, not tutorial clones
-+ I think in systems, not just code
-+ I ship fast, learn faster, repeat endlessly
-```
+## 🚀 Featured Projects
 
----
+### 🎯 TheatLense
 
-## 🚀 CURRENT FOCUS
+> AI-powered real-world solution
 
-<p align="center">
-  🎯 <b>TheatLense</b> — AI + Full Stack Innovation  
-  <br>
-  ⚡ Mastering DSA, Backend & AI  
-  <br>
-  🧠 Turning ideas → execution → impact
-</p>
+* Full-stack architecture
+* Built for impact, not just demo
 
 ---
 
-## 🛠️ TECH STACK
+<!-- 🏆 ACHIEVEMENTS -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,html,css,git,github,vscode&theme=dark" />
-</p>
+## 🏆 Achievements
 
----
-
-## 🧩 FEATURED BUILD
-
-<p align="center">
-  <b>🎯 TheatLense</b>  
-  <br><br>
-  AI-powered solution solving real problems  
-  <br>
-  Built with full-stack architecture  
-  <br>
-  Designed for impact, not just submission
-</p>
+* 🥇 Hackathon Winner — Swaminarayan University
+* 🥈 IIIT Surat Hackathon Rank 2
 
 ---
 
-## 📊 PERFORMANCE
+<!-- 🌐 CONNECT -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🏆 ACHIEVEMENTS
-
-<p align="center">
-  🥇 Hackathon Winner — Swaminarayan University  
-  <br>
-  🥈 IIIT Surat Hackathon — Rank 2  
-  <br>
-  ⚡ Consistently building & shipping projects
-</p>
-
----
-
-## 🐍 CONTRIBUTION FLOW
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 CONNECT
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="YOUR_LINKEDIN">
@@ -111,17 +89,6 @@
 
 ---
 
-## ⚡ FINAL STATEMENT
-
 <p align="center">
-  <b>
-  I don’t compete with others.  
-  I outgrow who I was yesterday.
-  </b>
-</p>
-
----
-
-<p align="center">
-  ⭐ If you're building something bold — let's talk.
+  ⚡ "Build. Ship. Improve. Repeat."
 </p>
