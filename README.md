@@ -1,79 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Chitt%20Hirpara&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chitt%20Hirpara&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Builder%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Hackathon%20Champion&descSize=18&descAlignY=58&descColor=a8b2d8" width="100%"/>
+
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Developer;Freelancer;Software+Developer+%40+Noerax;Hackathon+Builder&font=Fira+Code&center=true&width=500&height=45&duration=3000&pause=800&color=58A6FF&vCenter=true&size=22" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%8F%86+2%C3%97+National+Hackathon+Winner;%F0%9F%A4%96+AI+%2B+Full-Stack+Engineer+%40+Noerax;%F0%9F%8C%8D+GSSoC+Open-Source+Contributor;%E2%9A%A1+MERN+%7C+React+Native+%7C+ML+Builder;%F0%9F%94%A5+Building+real+products+under+pressure" alt="Typing SVG"/>
 </a>
 
-Software Developer @ Noerax · Building systems that solve real problems — from elderly wellness AI to banking fraud detection.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://chitt-hirpara-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitt-hirpara-930b80384/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chitthirpara@gmail.com)
+<!-- Achievement Badges -->
+![](https://img.shields.io/badge/%F0%9F%8F%86%20Hackathon-2%C3%97%20National%20Winner-F97316?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/%F0%9F%8C%8D%20GSSoC-Open%20Source%20Contributor-238636?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/%E2%9A%A1%20Status-Open%20to%20Collaborate-58A6FF?style=for-the-badge&labelColor=0D1117)
 
-<img src="https://komarev.com/ghpvc/?username=ChittHirpara&style=flat-square&color=58A6FF&label=Profile+Views" />
+<br/>
+
+<!-- Social Links -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chitt-hirpara-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitt-hirpara-930b80384/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chitthirpara@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChittHirpara)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ChittHirpara&style=for-the-badge&color=58A6FF&label=Profile+Views"/>
 
 </div>
 
-<br>
+<br/>
 
-## About
+---
 
-I'm a Computer Science student at Swaminarayan University and a Software Developer currently working at **Noerax**, with prior experience at **Revoot**. Alongside that, I work as a **freelance full-stack and AI developer**, and build most of my personal projects under hackathon pressure — where a working prototype has to go from idea to demo in under 36 hours. That constraint has shaped how I build: MERN on the backend, React Native when the product needs to live in someone's pocket, and AI woven in only where it changes the outcome, not as a checkbox.
+## ⚡ About Me
 
-My focus lately has been social-impact and fintech systems — a voice-based wellness check-in for elderly people living alone, a behavioral authentication layer for banking fraud, an APK-scanning fraud shield for a state bank hackathon. I care about the same things whether the deadline is a client's, an employer's, or a hackathon clock: does it actually work, and does it hold up under scrutiny.
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="320"/>
 
-I'm also an active open-source contributor through GSSoC and spend time outside of project work on competitive programming in C++.
+I'm a **CSE student at Swaminarayan University** and a Software Developer working at **Noerax**, with prior experience at **Revoot**.
 
-<br>
+I build most of my projects under hackathon pressure — idea to working demo in under **36 hours**. That constraint has shaped how I build: MERN on the backend, React Native when the product needs to live in someone's pocket, and AI woven in only where it *changes the outcome*, not as a checkbox.
 
-## What I Build
+- 🏆 **2× National Hackathon Champion** — IIT Jodhpur & Hack Aarambh 2026
+- 🤖 Building **real AI products** — voice wellness AI, fraud detection, behavioural auth
+- 🌐 **GSSoC Contributor** — giving back to open source
+- 🎓 Exploring **AI/ML grad pathways** — TU Munich, RWTH Aachen, KIT
+- 💡 Philosophy: *Build for the constraint. Ship clean. Survive the follow-up question.*
 
-| Area | Focus |
-|---|---|
-| **AI-Integrated Applications** | Voice AI, anomaly detection, and behavioral models embedded into product flows, not bolted on |
-| **Full Stack Web Apps** | MERN-based platforms with real auth, real data pipelines, and production-grade UI |
-| **Mobile Applications** | React Native apps for fraud detection and security-focused use cases |
-| **Hackathon Prototypes** | End-to-end builds — architecture, demo, and pitch — under 24–36 hour constraints |
-| **Open Source** | Contributions through GSSoC |
+<br clear="right"/>
 
-<br>
+---
 
-## Featured Projects
+## 🏆 Hackathon War Record
+
+<div align="center">
+
+> *Where pressure meets execution — I show up and I win* ⚡
+
+| 🎖️ | Event | Project | Stack | Result |
+|:---:|---|---|---|:---:|
+| 🥇 | **Hack Aarambh 2026** | JeevanSetu | MERN · Sarvam AI · Hume AI · Twilio | **Winner** |
+| 🥇 | **PSB Hackathon × IIT Jodhpur** | SBI SafeGuard | React Native · Node.js · ML | **Winner** |
+| 🏅 | **CRAFATHON '26** | BehaviourAuth | React Native · Z-score ML | **Finalist / Team Lead** |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### JeevanSetu
+### 🧓 JeevanSetu
 
-AI-powered voice wellness check-in system for elderly people living alone in India.
+AI-powered voice wellness check-in for elderly people living alone in India.
 
-**Problem:** Elderly individuals living alone often lack consistent, low-friction ways for family or caregivers to check on their wellbeing.
+**Problem:** Elderly individuals lack low-friction ways to signal wellbeing.
 
-**Solution:** An automated voice check-in system that calls, listens, and interprets emotional and physical wellness signals — flagging concerns without requiring the user to use an app.
+**Solution:** Automated voice calls that listen, interpret emotional signals, and flag concerns — no app required.
 
-**Stack:** Twilio · Sarvam AI · Hume AI · MongoDB · Express · React · Node.js
+**Stack:** `Twilio` `Sarvam AI` `Hume AI` `MERN`
 
-**Status:** Hackathon Build — Hack Aarambh 2026 (Team Quantum Syndicates)
+**Status:** 🏆 Hack Aarambh 2026 Winner — Team Quantum Syndicates
 
 [`GitHub →`](https://github.com/ChittHirpara/jeevansetu)
 
 </td>
 <td width="50%" valign="top">
 
-### SBI SafeGuard
+### 🔐 SBI SafeGuard
 
 Two-module mobile fraud detection system built for a state bank hackathon.
 
-**Problem:** Users fall for phishing links, fraudulent messages, and malicious APKs faster than banks can warn them.
+**Problem:** Users fall for phishing links and malicious APKs faster than banks can warn them.
 
-**Solution:** A link/message scanner paired with an APK Shield module that inspects installs in real time and flags fraud risk before damage is done.
+**Solution:** Link/message scanner + APK Shield with real-time ML-based threat scoring.
 
-**Stack:** React Native · Node.js · MongoDB · ML-based scoring
+**Stack:** `React Native` `Node.js` `MongoDB` `ML`
 
-**Status:** Hackathon Build — PSB Hackathon 2026, Team VantureHack (SBI × IIT Jodhpur)
+**Status:** 🥇 PSB Hackathon 2026 — Team VantureHack @ IIT Jodhpur
 
 [`GitHub →`](https://github.com/ChittHirpara/sbi-safeguard)
 
@@ -82,34 +112,34 @@ Two-module mobile fraud detection system built for a state bank hackathon.
 <tr>
 <td width="50%" valign="top">
 
-### CRAFATHON — Behavioural Continuous Authentication
+### 📱 BehaviourAuth
 
-Continuous banking authentication using behavioral biometrics instead of one-time login checks.
+Continuous banking authentication via behavioral biometrics — no passwords.
 
-**Problem:** Static login authentication doesn't catch account takeover after the initial sign-in.
+**Problem:** Static login can't catch account takeover after sign-in.
 
-**Solution:** A BehaviourTracker engine that scores tap timing, swipe velocity, and interaction anomalies in real time using Z-score analysis, across a five-screen web + React Native app, with a live fraud simulation demo.
+**Solution:** BehaviourTracker scores tap timing, swipe velocity & anomalies using Z-score analysis in real time.
 
-**Stack:** React Native · React · Node.js · MongoDB · Z-score anomaly detection
+**Stack:** `React Native` `React` `Node.js` `MongoDB`
 
-**Status:** Hackathon Build — CRAFATHON '26, Team Runtime Rebels
+**Status:** 🏅 CRAFATHON '26 — Team Lead, Team Runtime Rebels
 
 [`GitHub →`](https://github.com/ChittHirpara/crafathon-behavioural-auth)
 
 </td>
 <td width="50%" valign="top">
 
-### SkillForge
+### 🎓 SkillForge
 
-AI-powered, project-based coding education platform concept.
+AI-powered, project-based coding education platform.
 
-**Problem:** Most coding platforms teach syntax, not the ability to build and ship projects.
+**Problem:** Most platforms teach syntax — not how to build and ship.
 
-**Solution:** A platform combining an in-browser Monaco editor, Judge0-backed code execution, a multi-part AI engine for feedback, and gamified progression (XP, badges, streaks, skill radar charts, leaderboards).
+**Solution:** In-browser Monaco editor + Judge0 execution + AI feedback engine + gamified XP/badge system.
 
-**Stack:** MERN · Monaco Editor · Judge0 API · AI evaluation engine
+**Stack:** `MERN` `Monaco Editor` `Judge0 API` `AI Engine`
 
-**Status:** In Design — Hackathon Club concept, UI benchmarked against Linear, Vercel, and Stripe
+**Status:** 🔧 In Design — Hackathon Club concept
 
 [`GitHub →`](https://github.com/ChittHirpara/skillforge)
 
@@ -117,146 +147,112 @@ AI-powered, project-based coding education platform concept.
 </tr>
 </table>
 
-<br>
+---
 
-## Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,redux,nodejs,express,mongodb,figma,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,reactnative,redux,nodejs,express,mongodb,python,git,github,vscode,figma,postman&theme=dark&perline=8"/>
+
+<br/><br/>
+
+| 💻 Languages | 🎨 Frontend | ⚙️ Backend | 🤖 AI / ML |
+|:---:|:---:|:---:|:---:|
+| C++ · JavaScript · TypeScript | React · React Native · Redux | Node.js · Express · REST | Sarvam AI · Hume AI · XGBoost |
+| | TailwindCSS · HTML · CSS | MongoDB · JWT Auth | LSTM · Z-score Anomaly Det. |
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
-- C++
-- JavaScript
-- TypeScript
-
-**Frontend**
-- React
-- React Native
-- Redux Toolkit
-
-</td>
-<td valign="top" width="33%">
-
-**Backend**
-- Node.js
-- Express
-
-**Databases**
-- MongoDB (aggregation pipelines, schema design)
-
-</td>
-<td valign="top" width="33%">
-
-**AI / ML**
-- Sarvam AI, Hume AI (voice & emotion)
-- XGBoost, LSTM (forecasting)
-- Anomaly detection (Z-score based)
-
-**Tools**
-- Judge0 API · Twilio · JWT Auth · Figma
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Engineering Principles
-
-- Build for the constraint, not around it — hackathon deadlines shape better architecture decisions than unlimited time does.
-- A prototype that demos cleanly under pressure beats a "complete" system that doesn't.
-- Auth and data integrity are non-negotiable, even in a 24-hour build.
-- Simple, defensible technical choices win over impressive-sounding ones.
-- Every pitch needs to survive a judge's follow-up question — build accordingly.
-
-<br>
-
-## Current Focus
-
-- Sharpening data structures and algorithms through consistent LeetCode practice in C++, including digit DP and combinatorics-heavy problems
-- Refining SkillForge from concept into a buildable MERN architecture
-- Exploring AI/ML graduate study pathways, with Germany (TU Munich, RWTH Aachen, KIT) as a research focus
-
-<br>
-
-## Open Source
-
-Active contributor through **GSSoC (GirlScript Summer of Code)**, working on real-world open-source codebases alongside independent hackathon and product work.
-
-<br>
-
-## Experience Timeline
-
-| Period | Project / Role | Details |
-|---|---|---|
-| Current | **Noerax** | Software Developer |
-| Previous | **Revoot** | Software Developer |
-| Ongoing | Freelance | Full Stack & AI Development |
-| 2026 | JeevanSetu — Hack Aarambh 2026 | Team Quantum Syndicates |
-| 2026 | SBI SafeGuard — PSB Hackathon 2026 | Team VantureHack (SBI × IIT Jodhpur) |
-| 2026 | CRAFATHON '26 | Team Lead, Team Runtime Rebels |
-| 2026 | SkillForge | Solo — Hackathon Club |
-| 2026 | Hospital Management System | Full Stack — College Project |
-| — | Open Source Contributions | GSSoC |
-
-<br>
-
-## Achievements
-
-- **Hackathon Wins & Builds:** JeevanSetu (Hack Aarambh 2026), SBI SafeGuard (PSB Hackathon 2026), CRAFATHON '26 (Team Lead)
-- **Open Source:** GSSoC Contributor
-- **Academic:** CSE undergraduate, Swaminarayan University
-
-<br>
-
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ChittHirpara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&cache_seconds=21600" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=ChittHirpara&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&cache_seconds=21600" width="49%" />
+<!-- ── Row 1: Stats + Streak ── -->
+<img src="https://github-readme-stats.vercel.app/api?username=ChittHirpara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&cache_seconds=86400" height="170"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=ChittHirpara&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&cache_seconds=86400" height="170"/>
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ChittHirpara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=21600" width="40%" />
+<br/><br/>
 
-<br>
+<!-- ── Row 2: Top Langs ── -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChittHirpara&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" height="200"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ChittHirpara&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="90%" />
+<br/><br/>
 
-<br>
+<!-- ── Trophies ── -->
+<img src="https://github-profile-trophy.vercel.app/?username=ChittHirpara&theme=tokyonight&no-frame=true&no-bg=false&column=6&margin-w=10&margin-h=10" width="88%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChittHirpara&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="90%" />
+<br/><br/>
 
-<br><br>
+<!-- ── Activity Graph ── -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChittHirpara&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=1f3a5f" width="95%"/>
 
+<br/><br/>
+
+<!-- ── Snake ── -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake-dark.svg" width="90%"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake-dark.svg" width="95%"/>
 </picture>
 
 </div>
 
-<br>
+---
 
-## Contact
+## 🌱 Currently Cooking
 
-Open to freelance projects, collaborations, and opportunities in full-stack and AI-integrated product development.
+```text
+🔨  Building ........... JeevanSetu v2.0 — multimodal AI for elderly care
+📐  Architecting ........ SkillForge — MERN + AI + Judge0 education platform
+🧠  Studying ........... DSA in C++ · Digit DP · Combinatorics (LeetCode daily)
+🎓  Exploring .......... AI/ML grad pathways — Germany (TU Munich, RWTH, KIT)
+🌐  Contributing ........ Open source via GSSoC 2026
+```
 
-**Email:** [chitthirpara@gmail.com](mailto:chitthirpara@gmail.com)
-**LinkedIn:** [in/chitt-hirpara](https://www.linkedin.com/in/chitt-hirpara-930b80384/)
-**Portfolio:** [chitt-hirpara-portfolio.vercel.app](https://chitt-hirpara-portfolio.vercel.app/)
+---
+
+## 📋 Experience Timeline
 
 <div align="center">
-<sub>Building in public, one hackathon at a time.</sub>
+
+| Period | Role | Details |
+|---|---|---|
+| 🟢 Current | **Software Developer @ Noerax** | Full-Stack & AI |
+| ⬜ Previous | **Software Developer @ Revoot** | Full-Stack |
+| 🔄 Ongoing | **Freelance** | Full-Stack & AI Development |
+| 🏆 2026 | **JeevanSetu** — Hack Aarambh 2026 | Team Quantum Syndicates |
+| 🥇 2026 | **SBI SafeGuard** — PSB × IIT Jodhpur | Team VantureHack |
+| 🏅 2026 | **CRAFATHON '26** | Team Lead — Runtime Rebels |
+| 🔧 2026 | **SkillForge** | Solo — Hackathon Club |
+| 🌐 Ongoing | **GSSoC Contributions** | Open Source |
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" width="100%"/>
+---
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+*I'm a builder, a competitor, and a collaborator.*
+*If you have an idea worth fighting for — I'm in.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chitt-hirpara-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitt-hirpara-930b80384/)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chitthirpara@gmail.com)
+
+<br/>
+
+> 💬 *"Build for the constraint. Ship clean. Survive the follow-up question."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
