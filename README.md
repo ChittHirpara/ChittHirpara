@@ -166,43 +166,6 @@ AI-powered, project-based coding education platform.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- ── Row 1: Stats + Streak ── -->
-<img src="https://github-readme-stats.vercel.app/api?username=ChittHirpara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&cache_seconds=86400" height="170"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=ChittHirpara&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&cache_seconds=86400" height="170"/>
-
-<br/><br/>
-
-<!-- ── Row 2: Top Langs ── -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChittHirpara&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" height="200"/>
-
-<br/><br/>
-
-<!-- ── Trophies ── -->
-<img src="https://github-profile-trophy.vercel.app/?username=ChittHirpara&theme=tokyonight&no-frame=true&no-bg=false&column=6&margin-w=10&margin-h=10" width="88%"/>
-
-<br/><br/>
-
-<!-- ── Activity Graph ── -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChittHirpara&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=1f3a5f" width="95%"/>
-
-<br/><br/>
-
-<!-- ── Snake ── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake-dark.svg" width="95%"/>
-</picture>
-
-</div>
-
----
-
 ## 🌱 Currently Cooking
 
 ```text
