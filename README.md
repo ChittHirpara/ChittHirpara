@@ -54,22 +54,6 @@ I build most of my projects under hackathon pressure — idea to working demo in
 
 ---
 
-## 🏆 Hackathon War Record
-
-<div align="center">
-
-> *Where pressure meets execution — I show up and I win* ⚡
-
-| 🎖️ | Event | Project | Stack | Result |
-|:---:|---|---|---|:---:|
-| 🥇 | **Hack Aarambh 2026** | JeevanSetu | MERN · Sarvam AI · Hume AI · Twilio | **Winner** |
-| 🥇 | **PSB Hackathon × IIT Jodhpur** | SBI SafeGuard | React Native · Node.js · ML | **Winner** |
-| 🏅 | **CRAFATHON '26** | BehaviourAuth | React Native · Z-score ML | **Finalist / Team Lead** |
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -161,6 +145,26 @@ AI-powered, project-based coding education platform.
 |:---:|:---:|:---:|:---:|
 | C++ · JavaScript · TypeScript | React · React Native · Redux | Node.js · Express · REST | Sarvam AI · Hume AI · XGBoost |
 | | TailwindCSS · HTML · CSS | MongoDB · JWT Auth | LSTM · Z-score Anomaly Det. |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ChittHirpara&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=a8b2d8&dates=a8b2d8" width="49%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChittHirpara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=a8b2d8&langs_count=8&cache_seconds=86400" width="40%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake-dark.svg" width="95%"/>
+</picture>
 
 </div>
 
