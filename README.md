@@ -237,9 +237,11 @@ Active contributor through **GSSoC (GirlScript Summer of Code)**, working on rea
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-<sub>Snake animation renders once <a href="https://github.com/Platane/snk">the snake workflow</a> runs on your profile repo — see setup note below.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-snake-dark.svg" width="90%"/>
+</picture>
 
 </div>
 
