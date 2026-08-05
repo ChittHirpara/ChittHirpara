@@ -1,14 +1,18 @@
 <div align="center">
 
-# Chitt Hirpara
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Chitt%20Hirpara&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-**Full Stack Developer · AI Developer · Freelancer**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Developer;Freelancer;Software+Developer+%40+Noerax;Hackathon+Builder&font=Fira+Code&center=true&width=500&height=45&duration=3000&pause=800&color=58A6FF&vCenter=true&size=22" alt="typing animation" />
+</a>
 
 Software Developer @ Noerax · Building systems that solve real problems — from elderly wellness AI to banking fraud detection.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://chitt-hirpara-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitt-hirpara-930b80384/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chitthirpara@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=ChittHirpara&style=flat-square&color=58A6FF&label=Profile+Views" />
 
 </div>
 
@@ -117,6 +121,14 @@ AI-powered, project-based coding education platform concept.
 
 ## Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,redux,nodejs,express,mongodb,figma,git,github,vscode&theme=dark" />
+
+</div>
+
+<br>
+
 <table>
 <tr>
 <td valign="top" width="33%">
@@ -210,10 +222,24 @@ Active contributor through **GSSoC (GirlScript Summer of Code)**, working on rea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChittHirpara&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChittHirpara&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ChittHirpara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=ChittHirpara&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChittHirpara&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChittHirpara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChittHirpara&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="90%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChittHirpara&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="90%" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/ChittHirpara/ChittHirpara/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+<sub>Snake animation renders once <a href="https://github.com/Platane/snk">the snake workflow</a> runs on your profile repo — see setup note below.</sub>
 
 </div>
 
@@ -230,3 +256,5 @@ Open to freelance projects, collaborations, and opportunities in full-stack and 
 <div align="center">
 <sub>Building in public, one hackathon at a time.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" width="100%"/>
