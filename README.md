@@ -154,9 +154,17 @@ AI-powered, project-based coding education platform.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ChittHirpara&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=a8b2d8&dates=a8b2d8" width="49%"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ChittHirpara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=a8b2d8&rank_icon=github" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChittHirpara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=a8b2d8&langs_count=8&cache_seconds=86400" width="40%"/>
+<img src="https://streak-stats.demolab.com?user=ChittHirpara&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=a8b2d8&dates=a8b2d8" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=ChittHirpara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=a8b2d8&langs_count=8" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChittHirpara&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=1f3a5f" width="95%"/>
 
 <br/><br/>
 
